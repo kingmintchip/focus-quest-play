@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793065129|3436135';
+const CACHE_VERSION = '1793109755|3918243';
 /** @type {string} */
 const CACHE_PREFIX = 'Focus Quest-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;

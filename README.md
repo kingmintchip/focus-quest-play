@@ -2,4 +2,4 @@
 
 Play: https://kingmintchip.github.io/focus-quest-play/
 
-Built from focus-quest 8a90bbe. Source is private.
+Built from focus-quest 1a59062. Source is private.
