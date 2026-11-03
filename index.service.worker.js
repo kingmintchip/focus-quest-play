@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793741305|3875025';
+const CACHE_VERSION = '1793745807|3645156';
 /** @type {string} */
-const CACHE_PREFIX = 'Focus Quest-sw-cache-';
+const CACHE_PREFIX = 'LiteGrind-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
