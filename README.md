@@ -1,5 +1,5 @@
 # LiteGrind (play build)
 
-Play: https://focusquest.lol/
+Play: https://litegrind.lol/
 
-Built from focus-quest 0c7f251. Source is private.
+Built from focus-quest 76b5eca. Source is private.
