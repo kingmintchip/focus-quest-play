@@ -2,4 +2,4 @@
 
 Play: https://litegrind.lol/
 
-Built from focus-quest 213436d. Source is private.
+Built from focus-quest b679dc7. Source is private.
