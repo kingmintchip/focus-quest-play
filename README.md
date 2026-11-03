@@ -1,5 +1,5 @@
 # Focus Quest (play build)
 
-Play: https://kingmintchip.github.io/focus-quest-play/
+Play: https://focusquest.lol/
 
-Built from focus-quest c9466b2. Source is private.
+Built from focus-quest 52d14f6. Source is private.
