@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793771502|4055455';
+const CACHE_VERSION = '1793889942|3172181';
 /** @type {string} */
 const CACHE_PREFIX = 'LiteGrind-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
